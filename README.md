@@ -1,12 +1,13 @@
 <html>
 <section class="content"><article class="markdown-section" id="main"><h3 align="center">
+  
   Welcome to Gishor's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
 <a href="https://github.com/tgishor"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=999&color=0E71F7&center=true&vCenter=true&width=327&height=63&lines=I'm+a+Web+Developer;I'm+a+Flutter+Developer;I'm+a+Graphics+Designer" alt="Typing SVG" /></a>
 </p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tgishor&amp;label=Visitors+Count&amp;color=brightgreen" alt=""></p>
 <hr>
 <div align="center">
   
@@ -20,10 +21,7 @@
           <span>🌐Socials</span>
     </a>
   </h2>
-  
-  
   <p>
-  
   <a href="https://www.facebook.com/gishor.thavakumar.7/" target="_blank" rel="noopener">
     <a href="https://reddit.com/user/CodeWhiteWeb" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" data-origin=" 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -143,10 +141,10 @@
   <p>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" data-origin="https://forthebadge.com/images/badges/built-with-love.svg" alt="">
     <img src="https://random-gishor.grandstarhall.com/designed-by-gishor-t.svg" alt="">
-    <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" data-origin="https://forthebadge.com/images/badges/uses-brains.svg" alt="">
+    <img src="https://random-gishor.grandstarhall.com/powered-by-gb-web.svg" data-origin="https://forthebadge.com/images/badges/uses-brains.svg" alt="">
     
   </p>
 <hr>
-<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;label=Visitors+Count&amp;color=brightgreen" data-origin="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;label=Visitors+Count&amp;color=brightgreen" alt=""></p></div>
+  </div>
 </article></section>
 </html>
