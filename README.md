@@ -18,7 +18,7 @@
             <p>
               💫About Me :
               <br>
-            🔭 I’m currently working on my page : https://tgishordev.com
+            🔭 I’m currently working on my page : https://tgishor.com
               <br>
             🌱 I’m currently learning : Node.js
             </p>
