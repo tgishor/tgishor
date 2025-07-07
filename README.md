@@ -163,11 +163,7 @@
                 <a href="#/templates/CodeWhiteWeb?id=%e2%9c%8d%ef%b8%8frandom-dev-quote" data-id="random-dev-quote"
                     class="anchor"><span>Random Quote</span></a>
             </h3>
-            <p>
-                <img src="https://quotes-github-readme.vercel.app/api?quote=The%20road%20to%20success%20is%20always%20under%20contruction&amp;type=horizontal&amp;theme=algolia"
-                    data-origin="https://quotes-github-readme.vercel.app/api?quote=The%20road%20to%20success%20is%20always%20under%20contruction&amp;type=horizontal&amp;theme=algolia"
-                    alt="">
-            </p>
+            
             <hr>
             <p> <img src="https://forthebadge.com/images/badges/built-with-love.svg" data-origin="https://forthebadge.com/images/badges/built-with-love.svg" alt=""> <img src="https://random-gishor.grandstarhall.com/designed-by-gishor-t.svg" alt=""> <img src="https://random-gishor.grandstarhall.com/powered-by-gb-web.svg" data-origin="https://forthebadge.com/images/badges/uses-brains.svg" alt="">
             </p>
