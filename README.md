@@ -158,10 +158,6 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
                     data-origin="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
                     alt="">
-            </p>
-            
-            
-        </div>
-    </article>
+            </p> 
 </section>
 </html>
