@@ -159,14 +159,8 @@
                     data-origin="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
                     alt="">
             </p>
-            <h3 id="random-dev-quote">
-                <a href="#/templates/CodeWhiteWeb?id=%e2%9c%8d%ef%b8%8frandom-dev-quote" data-id="random-dev-quote"
-                    class="anchor"><span>Random Quote</span></a>
-            </h3>
             
-            <hr>
-            <p> <img src="https://forthebadge.com/images/badges/built-with-love.svg" data-origin="https://forthebadge.com/images/badges/built-with-love.svg" alt=""> <img src="https://random-gishor.grandstarhall.com/designed-by-gishor-t.svg" alt=""> <img src="https://random-gishor.grandstarhall.com/powered-by-gb-web.svg" data-origin="https://forthebadge.com/images/badges/uses-brains.svg" alt="">
-            </p>
+            
         </div>
     </article>
 </section>
