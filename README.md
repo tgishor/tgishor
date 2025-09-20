@@ -1,163 +1,147 @@
-<html>
-<section class="content">
-    <article class="markdown-section" id="main">
-        <h3 align="center">
-            Welcome to Gishor's profile!
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-        </h3>
-        <p align="center">
-            <a href="https://github.com/tgishor"><img
-                    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=999&color=0E71F7&center=true&vCenter=true&width=327&height=63&lines=I'm+a+Web+Developer;I'm+a+Flutter+Developer;I'm+a+Graphics+Designer"
-                    alt="Typing SVG" /></a>
-        </p>
-        <p align="center"><img
-                src="https://komarev.com/ghpvc/?username=tgishor&amp;label=Visitors+Count&amp;color=brightgreen" alt="">
-        </p>
-        <hr>
-        <div align="center">
-            <p>
-              💫About Me :
-              <br>
-            🔭 I’m currently working on my page : https://tgishor.com
-              <br>
-            🌱 I’m currently learning : Node.js
-            </p>
-            <h2 id="socials">
-                <a href="#/templates/CodeWhiteWeb?id=%f0%9f%8c%90socials" data-id="socials" class="anchor">
-                    <span>🌐Socials</span>
-                </a>
-            </h2>
-            <p>
-                <a href="https://www.facebook.com/gishor.thavakumar.7/" target="_blank" rel="noopener">
-                    <a href="https://reddit.com/user/CodeWhiteWeb" target="_blank" rel="noopener">
-                        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-                            data-origin=" 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-                            alt="Facebook">
-                    </a>
-                    <a href="https://reddit.com/user/CodeWhiteWeb" target="_blank" rel="noopener">
-                        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-                            data-origin="https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&amp;logoColor=white"
-                            alt="Instagram">
-                    </a>
-                    <a href="https://twitch.tv/code_white_web" target="_blank" rel="noopener">
-                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                            data-origin="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                            alt="LinkedIn">
-                    </a>
-                    <a href="https://youtube.com/c/CodeWhiteWeb" target="_blank" rel="noopener">
-                        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-                            data-origin="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-                            alt="YouTube">
-                    </a>
-            </p>
-          <h1 id="tech-stack-">
-                <a href="#/templates/CodeWhiteWeb?id=%f0%9f%92%bbtech-stack-" data-id="tech-stack-"
-                    class="anchor"><span>💻Tech Stack <img
-                            src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></span></a>
-            </h1>
-          <p>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                    width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
-                    width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"
-                    width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"
-                    width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"
-                    width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50px" />
-                <br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"
-                    width="50px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="50px" />
-                <br>
-            </p>
-          <h1 id="github-stats-">
-                <a href="#/templates/CodeWhiteWeb?id=%f0%9f%93%8agithub-stats-" data-id="github-stats-"
-                    class="anchor"><span>📊GitHub Stats :</span></a>
-            </h1>
-            <p>
-                <img src="https://github-readme-stats.vercel.app/api?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false"
-                    data-origin="https://github-readme-stats.vercel.app/api?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false"
-                    alt="">
-                <br>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgishor&amp;theme=radical&amp;hide_border=false"
-                    data-origin="https://github-readme-streak-stats.herokuapp.com/?user=tgishor&amp;theme=radical&amp;hide_border=false"
-                    alt="">
-                <br>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
-                    data-origin="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact"
-                    alt="">
-            </p> 
+<section align="center">
+    
+  <h1>Hi, I'm <b>Gishor Thavakumar</b> 👋</h1>
+  <h3>Master of IT (AI) | ML Engineer | AI Researcher | Embedded AI Enthusiast</h3>
+  
+  <p>
+    🚀 I create AI & ML solutions that work in real-world settings, with 2+ years industry experience.<br/>
+    🎓 Recent Graduate, Macquarie University | Business Intelligence Analyst @ Techants Australia<br/>
+    🌍 Open to <b>relocation</b> & <b>remote</b> roles worldwide in AI/ML/Data Science
+  </p>
+
+  <p>
+    <a href="https://tgishor.com" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Portfolio-tgishor.com-blue?style=for-the-badge&logo=about-dot-me" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/tgishor" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/GitHub-tgishor-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://au.linkedin.com/in/gishor-thavakumar" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-Gishor%20Thavakumar-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://huggingface.co/tgishor" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/HuggingFace-tgishor-orange?style=for-the-badge&logo=huggingface" alt="HuggingFace"/>
+    </a>
+  </p>
+
+  <hr style="margin: 2rem 0;"/>
+
+  <h2>💼 Professional Experience</h2>
+  <p><b>Business Intelligence Analyst</b> @ Techants Australia (Oct 2023 - Aug 2025)</p>
+  <ul>
+    <li>Built end-to-end ML and analytics pipelines from data ingestion to dashboards</li>
+    <li>Developed predictive models for business-critical decision-making</li>
+  </ul>
+
+  <p><b>Masters in IT (Artificial Intelligence)</b>, Macquarie University (2024-2025)</p>
+  <ul>
+    <li>Specialized in deep learning, computer vision, NLP, graph neural networks, and embedded AI</li>
+  </ul>
+
+  <hr style="margin: 2rem 0;"/>
+
+  <h2>🛠️ Tech Stack</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" />
+  </p>
+
+  <hr style="margin: 2rem 0;"/>
+
+  <h2>📂 Projects</h2>
+
+  <ul style="text-align:left; max-width:720px; margin:auto; font-size:1rem; line-height:1.5;">
+    <li><b><a href="https://github.com/tgishor/Advanced-NLP-AI-Text-Classifier-BERT-RoBERTa-PyTorch" target="_blank" rel="noopener">Advanced NLP AI Text Classifier (BERT / RoBERTa)</a></b><br/>
+      Transformer-based text classifiers implemented in PyTorch achieving high accuracy on complex datasets.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/AI-Generated-Text-Detection-BERT-RoBERTa-DistilBERT-LSTM-PyTorch" target="_blank" rel="noopener">AI Generated Text Detection (BERT, DistilBERT & LSTM)</a></b><br/> 
+      Ensemble models to distinguish AI-generated from human-written text with extensive evaluation.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/FGVC-Aircraft-Manufacturer-and-Variant-Classification-with-ResNet50-and-CBAM-PyTorch" target="_blank" rel="noopener">FGVC Aircraft Manufacturer & Variant Classification (ResNet50+CBAM)</a></b><br/> 
+      Fine-grained visual classification with attention-enhanced CNN architectures.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Conditional-VAE-for-MNIST-Digit-Reconstruction-and-Representation-Learning-PyTorch" target="_blank" rel="noopener">Conditional VAE for MNIST Digit Reconstruction</a></b><br/>
+      Generative modeling for digit synthesis and representation learning using VAEs.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Friend-Recommendation-Using-GNNs-GraphSAGE-GAT-PyTorch" target="_blank" rel="noopener">Friend Recommendation using Graph Neural Networks (GraphSAGE & GAT)</a></b><br/> 
+      Graph-based social recommendation systems with improved prediction accuracy.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Medical-QA-LSTM-Transformer-Models-Comparison" target="_blank" rel="noopener">Medical QA LSTM vs Transformer Comparison</a></b><br/>
+      Comparative analysis on medical question-answer datasets using sequential and attention models.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/AI-Driven-Robots-Choregraphy-Controller-Sub" target="_blank" rel="noopener">AI-Driven Robots Choreography Controller</a></b><br/>
+      Embedded AI for real-time robotics movement coordination and choreography.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Credit-Risk-Classification-Case-Study" target="_blank" rel="noopener">Credit Risk Classification Case Study</a></b><br/>
+      Financial risk prediction and classification models built with ML techniques.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Heart-Disease-Prediction-ML-Analytics-Case-Study" target="_blank" rel="noopener">Heart Disease Prediction ML Analytics</a></b><br/>
+      End-to-end machine learning pipeline for cardiovascular risk forecasts.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/WeatherNet-Multi-Class-Weather-Image-Classification" target="_blank" rel="noopener">WeatherNet Multi-Class Weather Image Classification</a></b><br/>
+      Deep learning weather pattern classification from images under diverse conditions.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/E-commerce-Predictive-Modeling-Customer-Analytics-Case-Study" target="_blank" rel="noopener">E-commerce Predictive Modeling Customer Analytics</a></b><br/>
+      Customer segmentation, prediction, and lifetime value modeling for retail.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study" target="_blank" rel="noopener">E-commerce Intermediate Customer Analytics</a></b><br/>
+      Analytics dashboard development and sales optimization for online platforms.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/R-Statistical-Analysis-Weightlifting-Dataset" target="_blank" rel="noopener">R Statistical Analysis - Weightlifting Dataset</a></b><br/>
+      Statistical data analysis and visualization using R.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Advanced-SQL-Library-CaseStudy" target="_blank" rel="noopener">Advanced SQL Library Case Study</a></b><br/>
+      Complex SQL queries and database optimization techniques.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend" target="_blank" rel="noopener">Enterprise Healthcare Management Platform (Flutter/PHP)</a></b><br/>
+      Cross-platform healthcare solution with mobile and backend components.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Logistics-Management-System-CSharp" target="_blank" rel="noopener">Logistics Management System (C#)</a></b><br/>
+      Inventory management and route optimization for logistics.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Hotel-Reservation-System-PHP-MySQL" target="_blank" rel="noopener">Hotel Reservation System (PHP/MySQL)</a></b><br/>
+      Full-featured booking and payment web platform.
+    </li><br/>
+
+    <li><b><a href="https://github.com/tgishor/Online-Auction-System-ASPNet-MVC" target="_blank" rel="noopener">Online Auction System (ASP.NET MVC)</a></b><br/>
+      Secure, real-time bidding platform with MVC architecture.
+    </li>
+  </ul>
+
+  <hr style="margin: 2rem 0;"/>
+
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tgishor&amp;label=Visitors+Count&amp;color=brightgreen" alt="">
+    <img src="https://github-readme-stats.vercel.app/api?username=tgishor&theme=radical&show_icons=true" alt="GitHub Stats" width="380" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgishor&theme=radical" alt="GitHub Streak" width="380" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&theme=radical&layout=compact" alt="Top Languages" width="760" />
+  </p>
+
 </section>
-</html>
