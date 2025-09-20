@@ -1,147 +1,183 @@
-<section align="center">
+<div align="center">
+
+<!-- Header with clean typography -->
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+  Hi, I'm Gishor Thavakumar
+</h1>
+
+<h3>🎯 AI Engineer • ML Researcher • Data Scientist</h3>
+
+<p>
+  <em>Building intelligent systems that solve real-world problems</em><br>
+  🎓 Master's in AI • 💼 2+ Years Industry Experience • 🌏 Open to Opportunities
+</p>
+
+<!-- Clean social links -->
+<p>
+  <a href="https://tgishor.com">
+    <img src="https://img.shields.io/badge/🌐_Website-tgishor.com-1e90ff?style=flat-square&labelColor=000000" alt="Website">
+  </a>
+  <a href="https://linkedin.com/in/gishor-thavakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&labelColor=000000" alt="LinkedIn">
+  </a>
+  <a href="https://huggingface.co/tgishor">
+    <img src="https://img.shields.io/badge/🤗_HuggingFace-Models-ff9d00?style=flat-square&labelColor=000000" alt="HuggingFace">
+  </a>
+</p>
+
+---
+
+</div>
+
+## 🚀 About Me
+
+Recent **Master of IT (Artificial Intelligence)** graduate from Macquarie University with hands-on experience as a **Business Intelligence Analyst** at Techants Australia. I build AI systems that work in production. 
+
+Currently fascinated by embedded AI - making intelligent systems work on resource-constrained hardware. 
+
+---
+
+## 💼 Experience
+
+**Business Intelligence Analyst** @ *Techants Australia* `Oct 2023 - Aug 2025`
+- Developed end-to-end ML pipelines processing millions of data points
+- Built predictive models that improved decision-making across business units
+- Created automated dashboards reducing manual reporting by 80%
+
+**Master of IT (AI)** @ *Macquarie University* `Jul 2023 - Aug 2025`
+- Research focus: Deep Learning, Computer Vision, Graph Neural Networks
+
+---
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,cs,php,flutter,r,java,cpp" />
+
+### AI/ML & Data Science
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+
+### Robotics & Embedded Systems
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" width="40" height="40"></img>
+<img src="https://devicon-website.vercel.app/api/ubuntu/plain-wordmark.svg" width="40" height="40"></img>
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,aws,azure" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,unity,nodejs" />
+
+### Statistical & Business Intelligence
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/grafana/original-wordmark.svg" width="40" height="40"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+  <td width="50%">
     
-  <h1>Hi, I'm <b>Gishor Thavakumar</b> 👋</h1>
-  <h3>Master of IT (AI) | ML Engineer | AI Researcher | Embedded AI Enthusiast</h3>
-  
-  <p>
-    🚀 I create AI & ML solutions that work in real-world settings, with 2+ years industry experience.<br/>
-    🎓 Recent Graduate, Macquarie University | Business Intelligence Analyst @ Techants Australia<br/>
-    🌍 Open to <b>relocation</b> & <b>remote</b> roles worldwide in AI/ML/Data Science
-  </p>
+### 🤖 [AI Robotics Choreography Controller](https://github.com/tgishor/AI-Driven-Robots-Choregraphy-Controller-Sub)
+*Embedded AI • Computer Vision • Real-time Processing*
 
-  <p>
-    <a href="https://tgishor.com" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Portfolio-tgishor.com-blue?style=for-the-badge&logo=about-dot-me" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/tgishor" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/GitHub-tgishor-black?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://au.linkedin.com/in/gishor-thavakumar" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/LinkedIn-Gishor%20Thavakumar-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://huggingface.co/tgishor" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/HuggingFace-tgishor-orange?style=for-the-badge&logo=huggingface" alt="HuggingFace"/>
-    </a>
-  </p>
+Real-time movement coordination system for robotic choreography using edge computing and computer vision.
 
-  <hr style="margin: 2rem 0;"/>
+  </td>
+  <td width="50%">
+    
+### 🎯 [Advanced NLP Text Classifier](https://github.com/tgishor/Advanced-NLP-AI-Text-Classifier-BERT-RoBERTa-PyTorch)
+*BERT • RoBERTa • PyTorch • Production-Ready*
 
-  <h2>💼 Professional Experience</h2>
-  <p><b>Business Intelligence Analyst</b> @ Techants Australia (Oct 2023 - Aug 2025)</p>
-  <ul>
-    <li>Built end-to-end ML and analytics pipelines from data ingestion to dashboards</li>
-    <li>Developed predictive models for business-critical decision-making</li>
-  </ul>
+High-performance text classification using state-of-the-art transformer models with optimized inference.
 
-  <p><b>Masters in IT (Artificial Intelligence)</b>, Macquarie University (2024-2025)</p>
-  <ul>
-    <li>Specialized in deep learning, computer vision, NLP, graph neural networks, and embedded AI</li>
-  </ul>
+  </td>
+</tr>
 
-  <hr style="margin: 2rem 0;"/>
+<tr>
+  <td width="50%">
+    
+### ✈️ [Aircraft Classification with Attention](https://github.com/tgishor/FGVC-Aircraft-Manufacturer-and-Variant-Classification-with-ResNet50-and-CBAM-PyTorch)
+*ResNet50 • CBAM • Fine-grained Classification*
 
-  <h2>🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" />
-  </p>
+Precision aircraft identification using attention-enhanced CNN architectures achieving SOTA results.
 
-  <hr style="margin: 2rem 0;"/>
+  </td>
+  <td width="50%">
+    
+### 🧠 [Graph Neural Networks for Social Rec](https://github.com/tgishor/Friend-Recommendation-Using-GNNs-GraphSAGE-GAT-PyTorch)
+*GraphSAGE • GAT • Social Networks*
 
-  <h2>📂 Projects</h2>
+Friend recommendation system using graph neural networks with 23% accuracy improvement over baselines.
 
-  <ul style="text-align:left; max-width:720px; margin:auto; font-size:1rem; line-height:1.5;">
-    <li><b><a href="https://github.com/tgishor/Advanced-NLP-AI-Text-Classifier-BERT-RoBERTa-PyTorch" target="_blank" rel="noopener">Advanced NLP AI Text Classifier (BERT / RoBERTa)</a></b><br/>
-      Transformer-based text classifiers implemented in PyTorch achieving high accuracy on complex datasets.
-    </li><br/>
+  </td>
+</tr>
+</table>
 
-    <li><b><a href="https://github.com/tgishor/AI-Generated-Text-Detection-BERT-RoBERTa-DistilBERT-LSTM-PyTorch" target="_blank" rel="noopener">AI Generated Text Detection (BERT, DistilBERT & LSTM)</a></b><br/> 
-      Ensemble models to distinguish AI-generated from human-written text with extensive evaluation.
-    </li><br/>
+<details>
+<summary><b>🔍 View All Projects</b></summary>
 
-    <li><b><a href="https://github.com/tgishor/FGVC-Aircraft-Manufacturer-and-Variant-Classification-with-ResNet50-and-CBAM-PyTorch" target="_blank" rel="noopener">FGVC Aircraft Manufacturer & Variant Classification (ResNet50+CBAM)</a></b><br/> 
-      Fine-grained visual classification with attention-enhanced CNN architectures.
-    </li><br/>
+### AI & Machine Learning
+- [**AI-Generated Text Detection Suite**](https://github.com/tgishor/AI-Generated-Text-Detection-BERT-RoBERTa-DistilBERT-LSTM-PyTorch) - Multi-model ensemble for AI content detection
+- [**Conditional VAE for MNIST**](https://github.com/tgishor/Conditional-VAE-for-MNIST-Digit-Reconstruction-and-Representation-Learning-PyTorch) - Generative modeling and representation learning
+- [**Medical QA System Comparison**](https://github.com/tgishor/Medical-QA-LSTM-Transformer-Models-Comparison) - LSTM vs Transformer analysis for healthcare
 
-    <li><b><a href="https://github.com/tgishor/Conditional-VAE-for-MNIST-Digit-Reconstruction-and-Representation-Learning-PyTorch" target="_blank" rel="noopener">Conditional VAE for MNIST Digit Reconstruction</a></b><br/>
-      Generative modeling for digit synthesis and representation learning using VAEs.
-    </li><br/>
+### Analytics & Business Intelligence  
+- [**Credit Risk Classification**](https://github.com/tgishor/Credit-Risk-Classification-Case-Study) - Financial risk assessment with ML
+- [**Heart Disease Prediction**](https://github.com/tgishor/Heart-Disease-Prediction-ML-Analytics-Case-Study) - Healthcare predictive modeling
+- [**WeatherNet Classification**](https://github.com/tgishor/WeatherNet-Multi-Class-Weather-Image-Classification) - Weather pattern recognition
+- [**E-commerce Customer Analytics**](https://github.com/tgishor/E-commerce-Predictive-Modeling-Customer-Analytics-Case-Study) - Customer behavior prediction
+- [**Advanced E-commerce Analytics**](https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study) - Retail optimization dashboards
 
-    <li><b><a href="https://github.com/tgishor/Friend-Recommendation-Using-GNNs-GraphSAGE-GAT-PyTorch" target="_blank" rel="noopener">Friend Recommendation using Graph Neural Networks (GraphSAGE & GAT)</a></b><br/> 
-      Graph-based social recommendation systems with improved prediction accuracy.
-    </li><br/>
+### Data Science & Statistical Analysis
+- [**R Statistical Analysis**](https://github.com/tgishor/R-Statistical-Analysis-Weightlifting-Dataset) - Sports performance statistical modeling
+- [**Advanced SQL Case Study**](https://github.com/tgishor/Advanced-SQL-Library-CaseStudy) - Database optimization techniques
 
-    <li><b><a href="https://github.com/tgishor/Medical-QA-LSTM-Transformer-Models-Comparison" target="_blank" rel="noopener">Medical QA LSTM vs Transformer Comparison</a></b><br/>
-      Comparative analysis on medical question-answer datasets using sequential and attention models.
-    </li><br/>
+### Full-Stack Development
+- [**Healthcare Management Platform**](https://github.com/tgishor/Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend) - Flutter + PHP enterprise solution
+- [**Logistics Management System**](https://github.com/tgishor/Logistics-Management-System-CSharp) - C# supply chain optimization
+- [**Hotel Reservation System**](https://github.com/tgishor/Hotel-Reservation-System-PHP-MySQL) - PHP/MySQL booking platform  
+- [**Online Auction System**](https://github.com/tgishor/Online-Auction-System-ASPNet-MVC) - ASP.NET MVC real-time bidding
 
-    <li><b><a href="https://github.com/tgishor/AI-Driven-Robots-Choregraphy-Controller-Sub" target="_blank" rel="noopener">AI-Driven Robots Choreography Controller</a></b><br/>
-      Embedded AI for real-time robotics movement coordination and choreography.
-    </li><br/>
+</details>
 
-    <li><b><a href="https://github.com/tgishor/Credit-Risk-Classification-Case-Study" target="_blank" rel="noopener">Credit Risk Classification Case Study</a></b><br/>
-      Financial risk prediction and classification models built with ML techniques.
-    </li><br/>
+---
+## 📈 GitHub Analytics
 
-    <li><b><a href="https://github.com/tgishor/Heart-Disease-Prediction-ML-Analytics-Case-Study" target="_blank" rel="noopener">Heart Disease Prediction ML Analytics</a></b><br/>
-      End-to-end machine learning pipeline for cardiovascular risk forecasts.
-    </li><br/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tgishor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
 
-    <li><b><a href="https://github.com/tgishor/WeatherNet-Multi-Class-Weather-Image-Classification" target="_blank" rel="noopener">WeatherNet Multi-Class Weather Image Classification</a></b><br/>
-      Deep learning weather pattern classification from images under diverse conditions.
-    </li><br/>
+<div align="center">
+  <img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=tgishor&theme=tokyonight&hide_border=true" />
+</div>
 
-    <li><b><a href="https://github.com/tgishor/E-commerce-Predictive-Modeling-Customer-Analytics-Case-Study" target="_blank" rel="noopener">E-commerce Predictive Modeling Customer Analytics</a></b><br/>
-      Customer segmentation, prediction, and lifetime value modeling for retail.
-    </li><br/>
 
-    <li><b><a href="https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study" target="_blank" rel="noopener">E-commerce Intermediate Customer Analytics</a></b><br/>
-      Analytics dashboard development and sales optimization for online platforms.
-    </li><br/>
+---
 
-    <li><b><a href="https://github.com/tgishor/R-Statistical-Analysis-Weightlifting-Dataset" target="_blank" rel="noopener">R Statistical Analysis - Weightlifting Dataset</a></b><br/>
-      Statistical data analysis and visualization using R.
-    </li><br/>
+<div align="center">
 
-    <li><b><a href="https://github.com/tgishor/Advanced-SQL-Library-CaseStudy" target="_blank" rel="noopener">Advanced SQL Library Case Study</a></b><br/>
-      Complex SQL queries and database optimization techniques.
-    </li><br/>
+### 💬 Let's Connect
 
-    <li><b><a href="https://github.com/tgishor/Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend" target="_blank" rel="noopener">Enterprise Healthcare Management Platform (Flutter/PHP)</a></b><br/>
-      Cross-platform healthcare solution with mobile and backend components.
-    </li><br/>
+*Ready to discuss how AI can solve your toughest challenges*
 
-    <li><b><a href="https://github.com/tgishor/Logistics-Management-System-CSharp" target="_blank" rel="noopener">Logistics Management System (C#)</a></b><br/>
-      Inventory management and route optimization for logistics.
-    </li><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-1e90ff?style=for-the-badge&logo=safari&logoColor=white)](https://tgishor.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gishor-thavakumar)
 
-    <li><b><a href="https://github.com/tgishor/Hotel-Reservation-System-PHP-MySQL" target="_blank" rel="noopener">Hotel Reservation System (PHP/MySQL)</a></b><br/>
-      Full-featured booking and payment web platform.
-    </li><br/>
+<img src="https://komarev.com/ghpvc/?username=tgishor&amp;label=Visitors+Count&amp;color=brightgreen" alt="">
 
-    <li><b><a href="https://github.com/tgishor/Online-Auction-System-ASPNet-MVC" target="_blank" rel="noopener">Online Auction System (ASP.NET MVC)</a></b><br/>
-      Secure, real-time bidding platform with MVC architecture.
-    </li>
-  </ul>
+<br>
 
-  <hr style="margin: 2rem 0;"/>
-
-  <h2>📊 GitHub Stats</h2>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=tgishor&amp;label=Visitors+Count&amp;color=brightgreen" alt="">
-    <img src="https://github-readme-stats.vercel.app/api?username=tgishor&theme=radical&show_icons=true" alt="GitHub Stats" width="380" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgishor&theme=radical" alt="GitHub Streak" width="380" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgishor&theme=radical&layout=compact" alt="Top Languages" width="760" />
-  </p>
-
-</section>
+</div>
